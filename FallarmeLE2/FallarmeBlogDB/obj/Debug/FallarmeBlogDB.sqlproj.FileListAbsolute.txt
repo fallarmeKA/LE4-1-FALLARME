@@ -1,0 +1,6 @@
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\bin\Debug\FallarmeBlogDB.dacpac
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\bin\Debug\FallarmeBlogDB.dll
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\bin\Debug\FallarmeBlogDB.pdb
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\obj\Debug\FallarmeBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\obj\Debug\FallarmeBlogDB.dll
+C:\Users\falla\source\repos\FallarmeLE2\FallarmeBlogDB\obj\Debug\FallarmeBlogDB.pdb
